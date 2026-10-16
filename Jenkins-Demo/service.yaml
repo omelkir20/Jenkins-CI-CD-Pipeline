@@ -6,7 +6,7 @@ spec:
   selector:
     app: spring-app
   ports:
-    - protocol: TCP
-      port: 2222
-      targetPort: 2222
+  - protocol: TCP
+    port: 2222
+    targetPort: 2222
   type: NodePort
