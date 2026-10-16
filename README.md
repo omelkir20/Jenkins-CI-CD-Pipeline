@@ -37,3 +37,24 @@
 ![](cap-lab/etap5.4.PNG)
 ![](cap-lab/etap5.3.PNG)
 ![](cap-lab/etap5.5.PNG)
+## Lab2 :
+### Préparer le projet GitHub : Forker le dépôt
+![](cap-lab/lab2.1.PNG)
+### Vérifier le Dockerfile
+![](cap-lab/lab2.9.PNG)
+### Vérifier le Jenkinsfile
+![](cap-lab/lab2.2.PNG)
+### Créer le pipeline dans Jenkins
+![](cap-lab/lab2.3.PNG)
+![](cap-lab/lab2.4.PNG)
+![](cap-lab/lab2.5.PNG)
+### Configurer Maven dans Jenkins
+![](cap-lab/lab2.6.PNG)
+### Créer le credential Docker Hub dans Jenkins
+![](cap-lab/lab2.8.PNG)
+### Lancer le pipeline
+![](cap-lab/lab2.7.PNG)
+### Tester l'application
+![](cap-lab/lab2.10.PNG)
+### Vérifie le conteneur Docker 
+![](cap-lab/lab2.11.PNG)
